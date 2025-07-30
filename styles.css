@@ -19,6 +19,8 @@ nav {
     padding-top: 15px;
     padding-bottom: 15px;
     border-bottom: 3px solid #ffffff;
+    display: flex;
+    justify-content: space-around;
 }
 
 h1 {
@@ -29,6 +31,8 @@ h1 {
 }
 
 #navi {
+    flex: 1;
+    text-align: center;
     border: 1px solid #000;
     border-radius: 10px;
     background-color: rgba(10, 39, 65, 0.7);
