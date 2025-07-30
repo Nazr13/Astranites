@@ -1,0 +1,91 @@
+body {
+    background-image: url("Fon4.jpg");
+    background-size: cover;
+}
+
+header {
+    text-decoration: none;
+}
+
+main {
+    text-decoration: none;
+}
+
+footer {
+    text-decoration: none;
+}
+
+nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #ffffff;
+}
+
+h1 {
+    text-align: center; 
+    color: floralwhite;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+h2 { 
+    color: floralwhite;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-right: 1550px;
+    border-bottom: 3px solid floralwhite;
+}
+
+b {
+    color: rgb(111, 97, 194);
+}   
+
+#navi {
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: rgba(10, 39, 65, 0.7);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 115px;
+    padding-right: 115px;
+    color: floralwhite;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+#navi:hover {
+    background-color: rgba(4, 16, 27, 0.7);
+    color: darkslateblue;
+    transition: all 0.3s ease;
+}
+
+#navi:active {
+    transform: scale(0.98);
+    background-color: rgba(2, 8, 14, 0.7);
+}
+
+#opisanie {
+    color: floralwhite;
+    background-color: rgba(10, 39, 65, 0.7);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: 1px solid #dbdbdb;
+    border-radius: 20px;
+    margin-top: 230px;
+    margin-bottom: 230px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#niz {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: floralwhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
